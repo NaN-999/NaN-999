@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NaN-999 (Konstantinos Kalafatakis)
+- 👋 Hi, I’m @NaN-999
 - 👀 I’m interested in becoming a Developer
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
